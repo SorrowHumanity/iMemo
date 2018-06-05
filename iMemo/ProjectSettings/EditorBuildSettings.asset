@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: a96728b9691b2554c88f8082c7da7f5e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelsScene.unity
+    guid: 75f54ce9f9e83d247b9eb2e37d6cf476
+  - enabled: 1
+    path: Assets/Scenes/MentalrobicsGame/MentalrobicsScene.unity
+    guid: 4e3300a49b085be49a30463692d6228a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelsScene.unity
+    guid: 75f54ce9f9e83d247b9eb2e37d6cf476
+  - enabled: 1
+    path: Assets/Scenes/MentalrobicsGame/MentalrobicsScene.unity
+    guid: 4e3300a49b085be49a30463692d6228a
+  - enabled: 1
+    path: Assets/Scenes/PlayerStatisticsScene.unity
+    guid: 8c0a07d9b9fffa44fac18ee4954494ff
+  - enabled: 1
+    path: Assets/Scenes/SelectCategoryScene.unity
+    guid: b3372b112d44155499b364c5564b06c3
+  - enabled: 1
+    path: Assets/Scenes/ItemExplorerGame/ItemExplorerScene.unity
+    guid: b205ea18122ff684b8a1a4c7b4a4499e
+  - enabled: 1
+    path: Assets/Scenes/NumberSnakeGame/NumberSnakeScene.unity
+    guid: 346d9cf0cedbcf04886fc7c8aaf19b5a
+  - enabled: 1
+    path: Assets/Scenes/MatchMatchGame/MatchMatchScene.unity
+    guid: ed87af259340c914eaf8519dda250d42
+  - enabled: 1
+    path: Assets/Scenes/ItemExplorerGame/ItemExplorerScene.unity
+    guid: b205ea18122ff684b8a1a4c7b4a4499e
+  - enabled: 1
+    path: Assets/Scenes/NumberSnakeGame/NumberSnakeScene.unity
+    guid: 346d9cf0cedbcf04886fc7c8aaf19b5a
+  - enabled: 1
+    path: Assets/Scenes/PatternMemoGame/PatternMemoScene.unity
+    guid: 614ff5a5b7bd5e84fb7e84486d358fb1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
